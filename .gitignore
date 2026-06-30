@@ -1,10 +1,2 @@
 .deveco/**
 .vscode/**
-build/**
-doc/**
-sample/**
-src/base/**
-src/build/**
-src/device/**
-src/domains/**
-src/foundation/**
