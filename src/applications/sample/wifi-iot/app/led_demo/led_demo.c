@@ -87,21 +87,6 @@ void led_demo(void)
     }
 
 
-
-    // osThreadAttr_t attr;
-
-    // attr.name = "LedTask";
-    // attr.attr_bits = 0U;
-    // attr.cb_mem = NULL;
-    // attr.cb_size = 0U;
-    // attr.stack_mem = NULL;
-    // attr.stack_size = 512;
-    // attr.priority = 26;
-
-    // if(osThreadNew((osThreadFunc_t)LedTask,NULL, &attr)==NULL)
-    // {
-    //     printf("falied to create ledtask\n");
-    // }
    
 
 }
