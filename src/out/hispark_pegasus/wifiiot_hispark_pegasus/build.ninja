@@ -1,7 +1,7 @@
 ninja_required_version = 1.7.2
 
 rule gn
-  command = ../../../../../DevTools_Hi3861V100_v1.0/thirdparty/python38/scripts/gn.exe --root=../../.. -q --dotfile=../../../build/lite/.gn --script-executable="e$:\openharmony\devtools_hi3861v100_v1.0\thirdparty\python38\python.exe" gen .
+  command = ../../../../../Devtools/DevTools_Hi3861V100_v1.0/thirdparty/python38/scripts/gn.exe --root=../../.. -q --dotfile=../../../build/lite/.gn --script-executable="d$:\harmonycourse\devtools\devtools_hi3861v100_v1.0\thirdparty\python38\python.exe" gen .
   description = Regenerating ninja files
 
 build build.ninja: gn

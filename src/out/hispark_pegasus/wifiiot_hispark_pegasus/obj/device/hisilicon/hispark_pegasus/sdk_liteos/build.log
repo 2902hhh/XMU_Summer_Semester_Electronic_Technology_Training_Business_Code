@@ -1,60 +1,70 @@
-'/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/app/demo/app.json' -> '/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/app/demo/app.json'
-'/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/boot/flashboot/Makefile' -> '/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/boot/flashboot/Makefile'
-'/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/boot/flashboot/SConscript' -> '/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/boot/flashboot/SConscript'
-'/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/boot/loaderboot/SConscript' -> '/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/boot/loaderboot/SConscript'
-'/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/build/make_scripts/config.mk' -> '/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/make_scripts/config.mk'
-'/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/build/scripts/scons_env_cfg.py' -> '/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/scripts/scons_env_cfg.py'
-'/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/build/scripts/scons_utils.py' -> '/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/scripts/scons_utils.py'
-'/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/build_patch.sh' -> '/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/build_patch.sh'
-'/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/SConstruct' -> '/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/SConstruct'
-'/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/tools/lzma_tool/lzma_tool.exe' -> '/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/tools/lzma_tool/lzma_tool.exe'
-'/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/tools/nvtool/build_nv.py' -> '/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/tools/nvtool/build_nv.py'
-'/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/tools/nvtool/tools/nv/cdbm.exe' -> '/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/tools/nvtool/tools/nv/cdbm.exe'
-'/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/tools/sign_tool/sign_tool.exe' -> '/e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/tools/sign_tool/sign_tool.exe'
+'/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/app/demo/app.json' -> '/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/app/demo/app.json'
+'/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/boot/flashboot/Makefile' -> '/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/boot/flashboot/Makefile'
+'/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/boot/flashboot/SConscript' -> '/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/boot/flashboot/SConscript'
+'/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/boot/loaderboot/SConscript' -> '/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/boot/loaderboot/SConscript'
+'/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/build/make_scripts/config.mk' -> '/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/make_scripts/config.mk'
+'/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/build/scripts/scons_env_cfg.py' -> '/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/scripts/scons_env_cfg.py'
+'/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/build/scripts/scons_utils.py' -> '/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/scripts/scons_utils.py'
+'/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/build_patch.sh' -> '/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/build_patch.sh'
+'/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/SConstruct' -> '/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/SConstruct'
+'/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/tools/lzma_tool/lzma_tool.exe' -> '/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/tools/lzma_tool/lzma_tool.exe'
+'/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/tools/nvtool/build_nv.py' -> '/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/tools/nvtool/build_nv.py'
+'/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/tools/nvtool/tools/nv/cdbm.exe' -> '/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/tools/nvtool/tools/nv/cdbm.exe'
+'/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/win_scripts/tools/sign_tool/sign_tool.exe' -> '/d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/tools/sign_tool/sign_tool.exe'
+D:\HarmonyCourse\lts\src\device\hisilicon\hispark_pegasus\sdk_liteos\build\scripts\hi_config_parser.py:85: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  if option is '':
 execute ota_builder with python...
+Compiling third_party\u-boot-v2019.07\u-boot-v2019.07\lib\crc32.c
+Compiling third_party\u-boot-v2019.07\u-boot-v2019.07\lib\lzma\LzmaDec.c
+Compiling third_party\u-boot-v2019.07\u-boot-v2019.07\lib\lzma\LzmaTools.c
+riscv32-unknown-elf-ld -nostdlib -nostartfiles -static --gc-sections -TD:\HarmonyCourse\lts\src\device\hisilicon\hispark_pegasus\sdk_liteos\build\link\flashboot_sha256.lds -Lbuild\libs -Lbuild\libs\boot_libs build\build_tmp\objs\flashboot\boot\commonboot\efuse\efuse_drv.o build\build_tmp\objs\flashboot\boot\commonboot\flash\flash_hw_process_flashboot.o build\build_tmp\objs\flashboot\common\nvm\hi_nvm.o build\build_tmp\objs\flashboot\common\partition_table\boot_partition_table.o build\build_tmp\objs\flashboot\drivers\efuse\efuse.o build\build_tmp\objs\flashboot\drivers\flash\hi_flashboot_flash.o build\build_tmp\objs\flashboot\drivers\gpio\hi_flashboot_gpio.o build\build_tmp\objs\flashboot\drivers\io\hi_flashboot_io.o build\build_tmp\objs\flashboot\drivers\lsadc\adc_drv.o build\build_tmp\objs\flashboot\lzmaram\lzmaram.o build\build_tmp\objs\flashboot\secure\crypto.o build\build_tmp\objs\flashboot\startup\main.o build\build_tmp\objs\flashboot\startup\riscv_init_flashboot.o build\build_tmp\objs\flashboot\startup\stack_protect.o build\build_tmp\objs\flashboot\third_party\u-boot-v2019.07\u-boot-v2019.07\lib\crc32.o build\build_tmp\objs\flashboot\third_party\u-boot-v2019.07\u-boot-v2019.07\lib\lzma\LzmaDec.o build\build_tmp\objs\flashboot\third_party\u-boot-v2019.07\u-boot-v2019.07\lib\lzma\LzmaTools.o build\build_tmp\objs\flashboot\upg\boot_start.o build\build_tmp\objs\flashboot\upg\boot_upg_check.o build\build_tmp\objs\flashboot\upg\boot_upg_check_secure.o build\build_tmp\objs\flashboot\upg\boot_upg_common.o build\build_tmp\objs\flashboot\upg\boot_upg_kernel.o build\build_tmp\objs\flashboot\upg\boot_upg_start_up.o build\build_tmp\objs\flashboot\upg\boot_upg_tool.o -o build\build_tmp\cache\flash_boot.elf --start-group --end-group
+Compiling third_party\u-boot-v2019.07\u-boot-v2019.07\lib\crc32.c
+Compiling third_party\u-boot-v2019.07\u-boot-v2019.07\lib\lzma\LzmaDec.c
+Compiling third_party\u-boot-v2019.07\u-boot-v2019.07\lib\lzma\LzmaTools.c
+riscv32-unknown-elf-ld -nostdlib -nostartfiles -static --gc-sections -TD:\HarmonyCourse\lts\src\device\hisilicon\hispark_pegasus\sdk_liteos\build\link\loaderboot_sha256.lds -Lbuild\libs -Lbuild\libs\boot_libs build\build_tmp\objs\loaderboot\boot\commonboot\efuse\efuse_drv.o build\build_tmp\objs\loaderboot\boot\commonboot\flash\flash_hw_process_flashboot.o build\build_tmp\objs\loaderboot\common\cmd_loop.o build\build_tmp\objs\loaderboot\common\efuse_opt.o build\build_tmp\objs\loaderboot\common\nvm\hi_nvm.o build\build_tmp\objs\loaderboot\common\partition_table\load_partition_table.o build\build_tmp\objs\loaderboot\common\transfer.o build\build_tmp\objs\loaderboot\drivers\efuse\efuse.o build\build_tmp\objs\loaderboot\drivers\flash\hi_loaderboot_flash.o build\build_tmp\objs\loaderboot\drivers\lsadc\adc_drv.o build\build_tmp\objs\loaderboot\secure\burn_file.o build\build_tmp\objs\loaderboot\secure\load_crypto.o build\build_tmp\objs\loaderboot\startup\main.o build\build_tmp\objs\loaderboot\startup\riscv_init_loaderboot.o build\build_tmp\objs\loaderboot\startup\stack_protect.o build\build_tmp\objs\loaderboot\third_party\u-boot-v2019.07\u-boot-v2019.07\lib\crc32.o build\build_tmp\objs\loaderboot\third_party\u-boot-v2019.07\u-boot-v2019.07\lib\lzma\LzmaDec.o build\build_tmp\objs\loaderboot\third_party\u-boot-v2019.07\u-boot-v2019.07\lib\lzma\LzmaTools.o -o build\build_tmp\cache\loader_boot.elf --start-group --end-group
 riscv32-unknown-elf-gcc -Iplatform\os\Huawei_LiteOS\kernel\include -Iconfig -DCONFIG_TEE_HUKS_SUPPORT -DCONFIG_CHIP_PKT_32K -DHI_BOARD_ASIC -DHI_ON_FLASH -E build\link\system_config.ld.S -o build\build_tmp\scripts\system_config.ld -P
 nvimg_builder(["build\build_tmp\scripts\system_config.ld"], ["build\link\system_config.ld.S"])
 product_name_list: ['sta']
-xml h file: E:\OpenHarmony\shit\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\h_file\nv
-E:\OpenHarmony\shit\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\out_nv_bin\sta
+xml h file: D:\HarmonyCourse\lts\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\h_file\nv
+D:\HarmonyCourse\lts\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\out_nv_bin\sta
 app_subver_list: ['demo']
 current subver_name:demo
-root_dir: E:\OpenHarmony\shit\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool
-mdm_xml: E:\OpenHarmony\shit\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\xml_file\mss_nvi_db.xml
+root_dir: D:\HarmonyCourse\lts\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool
+mdm_xml: D:\HarmonyCourse\lts\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\xml_file\mss_nvi_db.xml
 HNV NAME:mss_nvi_db.xml
-nv_tool: E:\OpenHarmony\shit\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\tools\nv\cdbm.exe
-app_subver_temp_dir:E:\OpenHarmony\shit\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\out_nv_bin\sta\nv\Hi3861_wifiiot_app\outside_demo
+nv_tool: D:\HarmonyCourse\lts\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\tools\nv\cdbm.exe
+app_subver_temp_dir:D:\HarmonyCourse\lts\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\out_nv_bin\sta\nv\Hi3861_wifiiot_app\outside_demo
 make app_subver_temp_dir
-mdmxml:E:\OpenHarmony\shit\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\xml_file\mss_nvi_db.xml
-src_xml_list: ['E:\\OpenHarmony\\shit\\src\\device\\hisilicon\\hispark_pegasus\\sdk_liteos\\tools\\nvtool\\xml_file\\mss_nvi_db.xml']
-combin_xml:E:\OpenHarmony\shit\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\out_nv_bin\sta\nv\Hi3861_wifiiot_app\mss_nvi_db.xml
-root_list [<Element 'HISTUDIO' at 0x0000023F71718590>]
+mdmxml:D:\HarmonyCourse\lts\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\xml_file\mss_nvi_db.xml
+src_xml_list: ['D:\\HarmonyCourse\\lts\\src\\device\\hisilicon\\hispark_pegasus\\sdk_liteos\\tools\\nvtool\\xml_file\\mss_nvi_db.xml']
+combin_xml:D:\HarmonyCourse\lts\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\out_nv_bin\sta\nv\Hi3861_wifiiot_app\mss_nvi_db.xml
+root_list [<Element 'HISTUDIO' at 0x000002C334F37B80>]
 hi_nv_modify_by_cfg
 cfg_file: nv
 
-cmd_line= ('E:\\OpenHarmony\\shit\\src\\device\\hisilicon\\hispark_pegasus\\sdk_liteos\\tools\\nvtool\\tools\\nv\\cdbm.exe', 'E:\\OpenHarmony\\shit\\src\\device\\hisilicon\\hispark_pegasus\\sdk_liteos\\tools\\nvtool\\out_nv_bin\\sta\\nv\\Hi3861_wifiiot_app\\outside_demo\\nv.xml', 'E:\\OpenHarmony\\shit\\src\\device\\hisilicon\\hispark_pegasus\\sdk_liteos\\tools\\nvtool\\h_file\\nv', 'E:\\OpenHarmony\\shit\\src\\device\\hisilicon\\hispark_pegasus\\sdk_liteos\\tools\\nvtool\\out_nv_bin\\sta\\nv\\Hi3861_wifiiot_app\\outside_demo\\nv')
-E:\OpenHarmony\shit\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\out_nv_bin\sta\nv\Hi3861_wifiiot_app\outside_demo\nv.xml
-E:\OpenHarmony\shit\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\h_file\nv
-E:\OpenHarmony\shit\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\out_nv_bin\sta\nv\Hi3861_wifiiot_app\outside_demo\nv
+cmd_line= ('D:\\HarmonyCourse\\lts\\src\\device\\hisilicon\\hispark_pegasus\\sdk_liteos\\tools\\nvtool\\tools\\nv\\cdbm.exe', 'D:\\HarmonyCourse\\lts\\src\\device\\hisilicon\\hispark_pegasus\\sdk_liteos\\tools\\nvtool\\out_nv_bin\\sta\\nv\\Hi3861_wifiiot_app\\outside_demo\\nv.xml', 'D:\\HarmonyCourse\\lts\\src\\device\\hisilicon\\hispark_pegasus\\sdk_liteos\\tools\\nvtool\\h_file\\nv', 'D:\\HarmonyCourse\\lts\\src\\device\\hisilicon\\hispark_pegasus\\sdk_liteos\\tools\\nvtool\\out_nv_bin\\sta\\nv\\Hi3861_wifiiot_app\\outside_demo\\nv')
+D:\HarmonyCourse\lts\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\out_nv_bin\sta\nv\Hi3861_wifiiot_app\outside_demo\nv.xml
+D:\HarmonyCourse\lts\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\h_file\nv
+D:\HarmonyCourse\lts\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\out_nv_bin\sta\nv\Hi3861_wifiiot_app\outside_demo\nv
 ===========Init HDB Start===========
-*********strDataTypeDefPath:E:\OpenHarmony\shit\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\h_file\nv/../nv/nv_modem_struct_def.txt
-*********strDataTypeDefPath:E:\OpenHarmony\shit\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\h_file\nv/../nv/nv_modem_struct_def.txt
-*********strDataTypeDefPath:E:\OpenHarmony\shit\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\h_file\nv/../nv/nv_factory_struct_def.txt
+*********strDataTypeDefPath:D:\HarmonyCourse\lts\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\h_file\nv/../nv/nv_modem_struct_def.txt
+*********strDataTypeDefPath:D:\HarmonyCourse\lts\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\h_file\nv/../nv/nv_modem_struct_def.txt
+*********strDataTypeDefPath:D:\HarmonyCourse\lts\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\h_file\nv/../nv/nv_factory_struct_def.txt
 ===========Init HDB finish===========
 ===========Write NV Buffer To File===========
 ===========Write NV Buffer Finish===========
 RETURN VALUE:0
-dst_hnv= E:\OpenHarmony\shit\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\out_nv_bin\sta\nv\hnv\Hi3861_wifiiot_app.hnv
+dst_hnv= D:\HarmonyCourse\lts\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\out_nv_bin\sta\nv\hnv\Hi3861_wifiiot_app.hnv
 Factory NV total num:10
 NV_FILE_STRU :28
 Factory NV total size:824
 Normal NV total num:13
 NV_FILE_STRU :28
 Normal NV total size:766
-build hnv OK:E:\OpenHarmony\shit\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\out_nv_bin\sta\nv\hnv\Hi3861_wifiiot_app.hnv
+build hnv OK:D:\HarmonyCourse\lts\src\device\hisilicon\hispark_pegasus\sdk_liteos\tools\nvtool\out_nv_bin\sta\nv\hnv\Hi3861_wifiiot_app.hnv
 ENDING
 riscv32-unknown-elf-gcc -Iplatform\os\Huawei_LiteOS\kernel\include -Iconfig -DCONFIG_TEE_HUKS_SUPPORT -DCONFIG_CHIP_PKT_32K -DHI_BOARD_ASIC -DHI_ON_FLASH -DFLASH_FIRM_START=4248512 -E build\link\link.ld.S -o build\build_tmp\scripts\link.lds -P
-riscv32-unknown-elf-ld -nostartfiles -nostdlib -static --gc-sections -LE:\OpenHarmony\DevTools_Hi3861V100_v1.0\hcc_riscv32_win\bin\..\lib\gcc\riscv32-unknown-elf\7.3.0 -LE:\OpenHarmony\shit\src\device\hisilicon\hispark_pegasus\sdk_liteos\build\scripts\..\..\..\..\..\huawei\hms\hilink\ohos\l0\hi3861\lib\wifi -Lbuild\build_tmp\libs\app\wifiiot_app -Lbuild\build_tmp\libs\components\at -Lbuild\build_tmp\libs\platform\drivers -Lbuild\build_tmp\libs\platform\system -Lbuild\build_tmp\scripts -Lbuild\libs -Lbuild\libs\hi3861\release\no_mesh -Lbuild\scripts -Lohos\libs -Tbuild\build_tmp\scripts\link.lds -Map=output\bin\Hi3861_wifiiot_app.map -o output\bin\Hi3861_wifiiot_app.out --start-group -ladc -lat -lc_flash -lcfg -lcoap -lcpup -ldiag -ldrv -lflash -lgcc -lgpio -lhistreaminglink -li2c -lio -liperf -llitekernel_flash -lltoswpa -llwip -lm_flash -lmbedtls -lmqtt -lparttab -lpwm -lres_cfg -lsdio -lsec_flash -lspiffs -lsystem -ltsensor -luart -lupg -lwifi -lwifi_flash -lwifiiot_app -lwpa --whole-archive -lauthmanager -lbootstrap -lbroadcast -lcjson_static -lcmsis -ldeviceauth -ldeviceauth_hal_liteos -ldiscovery -ldump_static -lhal_file_static -lhal_iothardware -lhal_sysparam -lhal_token_static -lhal_update_static -lhal_wifiaware -lhichainsdk -lhilog_lite -lhiview_lite -lhota -lhuks_3.0_sdk -lled_demo -lnative_file -lposix -lsamgr -lsamgr_adapter -lsamgr_source -lsysparam -ltoken_static -ltrans_service -lutils_kv_store -lwifiaware -lwifiservice --no-whole-archive --end-group
+riscv32-unknown-elf-ld -nostartfiles -nostdlib -static --gc-sections -LD:\HarmonyCourse\Devtools\DevTools_Hi3861V100_v1.0\hcc_riscv32_win\bin\..\lib\gcc\riscv32-unknown-elf\7.3.0 -LD:\HarmonyCourse\lts\src\device\hisilicon\hispark_pegasus\sdk_liteos\build\scripts\..\..\..\..\..\huawei\hms\hilink\ohos\l0\hi3861\lib\wifi -Lbuild\build_tmp\libs\app\wifiiot_app -Lbuild\build_tmp\libs\components\at -Lbuild\build_tmp\libs\platform\drivers -Lbuild\build_tmp\libs\platform\system -Lbuild\build_tmp\scripts -Lbuild\libs -Lbuild\libs\hi3861\release\no_mesh -Lbuild\scripts -Lohos\libs -Tbuild\build_tmp\scripts\link.lds -Map=output\bin\Hi3861_wifiiot_app.map -o output\bin\Hi3861_wifiiot_app.out --start-group -ladc -lat -lc_flash -lcfg -lcoap -lcpup -ldiag -ldrv -lflash -lgcc -lgpio -lhistreaminglink -li2c -lio -liperf -llitekernel_flash -lltoswpa -llwip -lm_flash -lmbedtls -lmqtt -lparttab -lpwm -lres_cfg -lsdio -lsec_flash -lspiffs -lsystem -ltsensor -luart -lupg -lwifi -lwifi_flash -lwifiiot_app -lwpa --whole-archive -lauthmanager -lbootstrap -lbroadcast -lcjson_static -lcmsis -ldeviceauth -ldeviceauth_hal_liteos -ldiscovery -ldump_static -lhal_file_static -lhal_iothardware -lhal_sysparam -lhal_token_static -lhal_update_static -lhal_wifiaware -lhichainsdk -lhilog_lite -lhiview_lite -lhota -lhuks_3.0_sdk -lled_demo -lnative_file -lposix -lsamgr -lsamgr_adapter -lsamgr_source -lsysparam -ltoken_static -ltrans_service -lutils_kv_store -lwifiaware -lwifiservice --no-whole-archive --end-group
 riscv32-unknown-elf-objcopy -O binary output\bin\Hi3861_wifiiot_app.out build\build_tmp\cache\Hi3861_wifiiot_app.bin
 baseimg_builder(["build\build_tmp\cache\Hi3861_wifiiot_app_base.bin", "build\build_tmp\cache\Hi3861_wifiiot_app_kernel.bin"], ["build\build_tmp\cache\Hi3861_wifiiot_app.bin"])
 cleanup(["build\build_tmp\cache\Hi3861_wifiiot_app_base.bin", "build\build_tmp\cache\Hi3861_wifiiot_app_kernel.bin"], ["build\build_tmp\cache\Hi3861_wifiiot_app.bin"])
@@ -87,10 +97,10 @@ upg file          out: build\build_tmp\cache\Hi3861_wifiiot_app_ota_temp.bin
 [common sign][01]=[0xb7]
 [common sign][30]=[0x5c]
 [common sign][31]=[0x6a]
-[section sign][00]=[0xf3]
-[section sign][01]=[0x36]
-[section sign][30]=[0x71]
-[section sign][31]=[0xea]
+[section sign][00]=[0x51]
+[section sign][01]=[0x1e]
+[section sign][30]=[0x74]
+[section sign][31]=[0xd9]
 [image_id=0x3c78961e][struct_version=0x0]]
 [hash_alg=0x0][sign_alg=0x3f][sign_param=0x0]
 [section_count=0x2]
@@ -163,21 +173,21 @@ compress_ota_builder(["output\bin\Hi3861_wifiiot_app_ota.bin"], ["build\build_tm
 ********************package compress upgrade file********************
 compress upg file in:  build\build_tmp\cache\Hi3861_wifiiot_app_ota_temp.bin
 compress upg file out: output\bin\Hi3861_wifiiot_app_ota.bin
-lzma compress tool : E:\OpenHarmony\shit\src\device\hisilicon\hispark_pegasus\sdk_liteos\build\scripts\..\..\tools\lzma_tool\lzma_tool
+lzma compress tool : D:\HarmonyCourse\lts\src\device\hisilicon\hispark_pegasus\sdk_liteos\build\scripts\..\..\tools\lzma_tool\lzma_tool
 lzma    src   file : build\build_tmp\cache\Hi3861_wifiiot_app_ota_temp.bin
 lzma    out   file : build\build_tmp\cache\Hi3861_wifiiot_app_ota_temp.lzma
 
 LZMA 19.00 (x86) : Igor Pavlov : Public domain : 2019-02-21
 
 Input size:  619504 (0 MiB)
-                                                                Output size: 389752 (0 MiB)
+                                                                Output size: 389750 (0 MiB)
 [upgbin-compressbin]0x973f0-0x13e000
 [common_head_offset=0][common_head_size=96]
 [common_key_offset=96][common_key_size=288]
 [common_head_sign_offset=384][common_head_sign_size=256]
 [section_head_offset=640][section_head_size=64]
 [upg_file_sign_offset=704][upg_file_sign_size=256]
-[padding_offset=390712][padding_size=8]
+[padding_offset=390710][padding_size=10]
 [upg fill user info]chip:b'Hi3861'
 -------------output\bin\Hi3861_wifiiot_app_ota.bin image info print start-------------
 [image_id=0x3c78961e][struct_version=0x0]]
@@ -196,14 +206,14 @@ Input size:  619504 (0 MiB)
 [common sign][01]=[0x87]
 [common sign][30]=[0x9]
 [common sign][31]=[0xde]
-[section sign][00]=[0xb6]
-[section sign][01]=[0x6a]
-[section sign][30]=[0x48]
-[section sign][31]=[0x5a]
+[section sign][00]=[0x41]
+[section sign][01]=[0xd5]
+[section sign][30]=[0x7e]
+[section sign][31]=[0xb0]
 [image_id=0x3c78961e][struct_version=0x0]]
 [hash_alg=0x0][sign_alg=0x3f][sign_param=0x0]
 [section_count=0x1]
-[section0_compress=0x1][section0_offset=0x3c0][section0_len=0x5f278]
+[section0_compress=0x1][section0_offset=0x3c0][section0_len=0x5f276]
 [section1_compress=0x0][section1_offset=0x0][section1_len=0x0]
 -------------output\bin\Hi3861_wifiiot_app_ota.bin image info print end--------------
 [95m
@@ -211,6 +221,6 @@ Input size:  619504 (0 MiB)
                               BUILD SUCCESS                              
 < ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ >
 [0m
-See build log from: /e/OpenHarmony/shit/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/build_tmp/logs/build_kernel.log
-cmd:sh hm_build.sh E:/OpenHarmony/shit/src/out/hispark_pegasus/wifiiot_hispark_pegasus win
-cost time:0:00:06
+See build log from: /d/HarmonyCourse/lts/src/device/hisilicon/hispark_pegasus/sdk_liteos/build/build_tmp/logs/build_kernel.log
+cmd:sh hm_build.sh D:/HarmonyCourse/lts/src/out/hispark_pegasus/wifiiot_hispark_pegasus win
+cost time:0:00:12

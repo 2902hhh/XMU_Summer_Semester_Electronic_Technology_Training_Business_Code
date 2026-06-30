@@ -1,5 +1,5 @@
 rule copy
-  command = python E:/OpenHarmony/shit/src//build/lite/copy_files.py --src_type=file --src=${in} --dest_dir=${out}
+  command = python D:/HarmonyCourse/lts/src//build/lite/copy_files.py --src_type=file --src=${in} --dest_dir=${out}
   description = COPY ${in} ${out}
 rule cxx
   command = riscv32-unknown-elf-g++.exe ${defines} ${include_dirs} ${cflags_cc} -c ${in} -o ${out}
@@ -77,7 +77,7 @@ build obj/device/hisilicon/hispark_pegasus/hi3861_adapter/kal/kal.stamp: stamp .
 subninja obj/device/hisilicon/hispark_pegasus/hi3861_adapter/kal/cmsis/cmsis.ninja
 subninja obj/device/hisilicon/hispark_pegasus/hi3861_adapter/kal/posix/posix.ninja
 rule __device_hisilicon_hispark_pegasus_sdk_liteos_run_wifiiot_scons___build_lite_toolchain_riscv32-unknown-elf__rule
-  command = e$:\openharmony\devtools_hi3861v100_v1.0\thirdparty\python38\python.exe ../../../build/lite/build_ext_components.py --path=../../../device/hisilicon/hispark_pegasus/sdk_liteos "--command=sh$ hm_build.sh$ E$:/OpenHarmony/shit/src/out/hispark_pegasus/wifiiot_hispark_pegasus$ win" --target_dir=E$:/OpenHarmony/shit/src/out/hispark_pegasus/wifiiot_hispark_pegasus/obj/device/hisilicon/hispark_pegasus/sdk_liteos/build.log --out_dir=E$:/OpenHarmony/shit/src/out/hispark_pegasus/wifiiot_hispark_pegasus/error.log
+  command = d$:\harmonycourse\devtools\devtools_hi3861v100_v1.0\thirdparty\python38\python.exe ../../../build/lite/build_ext_components.py --path=../../../device/hisilicon/hispark_pegasus/sdk_liteos "--command=sh$ hm_build.sh$ D$:/HarmonyCourse/lts/src/out/hispark_pegasus/wifiiot_hispark_pegasus$ win" --target_dir=D$:/HarmonyCourse/lts/src/out/hispark_pegasus/wifiiot_hispark_pegasus/obj/device/hisilicon/hispark_pegasus/sdk_liteos/build.log --out_dir=D$:/HarmonyCourse/lts/src/out/hispark_pegasus/wifiiot_hispark_pegasus/error.log
   description = ACTION //device/hisilicon/hispark_pegasus/sdk_liteos:run_wifiiot_scons(//build/lite/toolchain:riscv32-unknown-elf)
   restat = 1
 
