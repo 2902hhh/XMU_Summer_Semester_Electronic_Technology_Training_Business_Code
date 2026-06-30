@@ -33,8 +33,8 @@ rule solink
   rspfile = ${output_dir}/${target_output_name}${output_extension}.rsp
   rspfile_content = ${in}
 
-build obj/applications/sample/wifi-iot/app/app.stamp: stamp ./libs/libled_demo.a
-subninja obj/applications/sample/wifi-iot/app/led_demo/led_demo.ninja
+build obj/applications/sample/wifi-iot/app/app.stamp: stamp ./libs/libadc_key.a
+subninja obj/applications/sample/wifi-iot/app/ADC/adc_key.ninja
 subninja obj/base/hiviewdfx/hilog_lite/frameworks/mini/hilog_lite.ninja
 build obj/base/hiviewdfx/hilog_lite/frameworks/mini/hilog_lite_ndk.stamp: stamp ./libs/libhilog_lite.a
 subninja obj/base/hiviewdfx/hiview_lite/hiview_lite.ninja

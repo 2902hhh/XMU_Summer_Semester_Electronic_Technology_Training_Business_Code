@@ -15,6 +15,6 @@ import("//build/lite/config/component/lite_component.gni")
 
 lite_component("app") {
     features = [
-        "led_demo:led_demo",
+        "ADC:adc_key",
     ]
 }

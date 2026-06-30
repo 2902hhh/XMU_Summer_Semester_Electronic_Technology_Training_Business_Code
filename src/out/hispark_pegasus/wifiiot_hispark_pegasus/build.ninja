@@ -11,6 +11,7 @@ build build.ninja: gn
 subninja toolchain.ninja
 
 build ConfigFiles: phony obj/foundation/distributedschedule/samgr_lite/ConfigFiles.stamp
+build adc_key: phony ./libs/libadc_key.a
 build app: phony obj/applications/sample/wifi-iot/app/app.stamp
 build authmanager: phony ./libs/libauthmanager.a
 build bootstrap: phony ./libs/libbootstrap.a
@@ -43,7 +44,6 @@ build iothardware: phony obj/base/iot_hardware/peripheral/iothardware.stamp
 build iothardware_ndk: phony obj/base/iot_hardware/peripheral/iothardware_ndk.stamp
 build kal: phony obj/device/hisilicon/hispark_pegasus/hi3861_adapter/kal/kal.stamp
 build kv_store: phony obj/utils/native/lite/kv_store/kv_store.stamp
-build led_demo: phony ./libs/libled_demo.a
 build link: phony obj/domains/iot/link/link.stamp
 build mark_as_prebuilts: phony obj/build/lite/mark_as_prebuilts.stamp
 build native_api: phony obj/utils/native/lite/native_api.stamp
@@ -82,8 +82,7 @@ build wifiservice: phony ./libs/libwifiservice.a
 build wifiservice_ndk: phony obj/device/hisilicon/hispark_pegasus/hi3861_adapter/hals/communication/wifi_lite/wifiservice/wifiservice_ndk.stamp
 build applications/sample/wifi-iot/app$:app: phony obj/applications/sample/wifi-iot/app/app.stamp
 build applications/sample/wifi-iot/app: phony obj/applications/sample/wifi-iot/app/app.stamp
-build applications/sample/wifi-iot/app/led_demo$:led_demo: phony ./libs/libled_demo.a
-build applications/sample/wifi-iot/app/led_demo: phony ./libs/libled_demo.a
+build applications/sample/wifi-iot/app/ADC$:adc_key: phony ./libs/libadc_key.a
 build base/hiviewdfx/hilog_lite/frameworks/mini$:hilog_lite: phony ./libs/libhilog_lite.a
 build base/hiviewdfx/hilog_lite/frameworks/mini$:hilog_lite_ndk: phony obj/base/hiviewdfx/hilog_lite/frameworks/mini/hilog_lite_ndk.stamp
 build base/hiviewdfx/hiview_lite$:hiview_lite: phony ./libs/libhiview_lite.a
@@ -179,7 +178,7 @@ build vendor/hisilicon/hispark_pegasus/hals/utils/token$:hal_token_static: phony
 
 build all: phony $
     obj/applications/sample/wifi-iot/app/app.stamp $
-    ./libs/libled_demo.a $
+    ./libs/libadc_key.a $
     ./libs/libhilog_lite.a $
     obj/base/hiviewdfx/hilog_lite/frameworks/mini/hilog_lite_ndk.stamp $
     ./libs/libhiview_lite.a $
