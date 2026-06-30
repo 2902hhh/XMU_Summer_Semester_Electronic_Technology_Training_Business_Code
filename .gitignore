@@ -8,12 +8,3 @@ src/build/**
 src/device/**
 src/domains/**
 src/foundation/**
-src/out/**
-src/prebuilts/**
-src/productdefine/**
-src/test/**
-src/third_party/**
-src/utils/**
-src/vendor/**
-src/NOTICE
-src/ohos_config.json
